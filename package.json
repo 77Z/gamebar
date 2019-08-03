@@ -1,0 +1,33 @@
+{
+  "name": "gamebar",
+  "version": "1.0.0",
+  "description": "an \"overlay\" for games!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77Z/gamebar.git"
+  },
+  "keywords": [
+    "gamebar",
+    "overlay",
+    "game",
+    "games",
+    "Vince",
+    "Richter",
+    "77Z"
+  ],
+  "author": "Vince Richter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/77Z/gamebar/issues"
+  },
+  "homepage": "https://github.com/77Z/gamebar#readme",
+  "dependencies": {
+    "electron": "^6.0.0",
+    "vq_underscore": "^0.1.0"
+  }
+}
