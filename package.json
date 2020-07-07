@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/77Z/gamebar#readme",
   "dependencies": {
-    "electron": "^6.0.0",
+    "electron": "^7.2.4",
     "vq_underscore": "^0.1.0"
   }
 }
